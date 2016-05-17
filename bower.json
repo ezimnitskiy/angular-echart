@@ -1,0 +1,33 @@
+{
+  "name": "angular-echarts",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ezimnitskiy/angular-echarts",
+  "authors": [
+    "ezimnitskiy <evgeniy.zimnitskiy@effective-soft.com>"
+  ],
+  "description": "angular baidu echarts",
+  "main": "./dist/angular-echarts.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "baidu",
+    "echarts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.x",
+    "echarts": "~2.2.7"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
